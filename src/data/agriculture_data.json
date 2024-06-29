@@ -1,0 +1,23 @@
+{
+    "1950": [
+      {"name": "Wheat", "production": 2000, "yield": 2.5, "area": 800},
+      {"name": "Rice", "production": 1500, "yield": 2.2, "area": 700},
+      {"name": "Corn", "production": 1200, "yield": 2.1, "area": 600}
+    ],
+    "1951": [
+      {"name": "Wheat", "production": 2100, "yield": 2.6, "area": 850},
+      {"name": "Rice", "production": 1600, "yield": 2.3, "area": 750},
+      {"name": "Corn", "production": 1300, "yield": 2.2, "area": 650}
+    ],
+    "1952": [
+      {"name": "Wheat", "production": 2200, "yield": 2.7, "area": 900},
+      {"name": "Rice", "production": 1700, "yield": 2.4, "area": 800},
+      {"name": "Corn", "production": 1400, "yield": 2.3, "area": 700}
+    ],
+    "2020": [
+      {"name": "Wheat", "production": 3000, "yield": 3.5, "area": 1000},
+      {"name": "Rice", "production": 2500, "yield": 3.2, "area": 900},
+      {"name": "Corn", "production": 2000, "yield": 3.1, "area": 800}
+    ]
+  }
+  
